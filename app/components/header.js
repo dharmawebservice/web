@@ -80,7 +80,7 @@ export default function Header() {
           {/* LOGO */}
           <button onClick={() => goTo("home")}>
             <img
-              src="/dws.webp"
+              src="/dws.png"
               alt="DWS Logo"
               className="w-14 sm:w-17.5 md:w-22 lg:w-26 transition-all duration-300 hover:drop-shadow-[0_0_12px_rgba(99,102,241,.6)]"
             />

@@ -57,7 +57,7 @@ export default function Footer() {
         <div className="flex flex-col items-center md:items-start text-center md:text-left">
 
   <img
-    src="/dws.webp"
+    src="/dws.png"
     alt="DWS Logo"
     className="
       w-22.5 sm:w-30 md:w-35 lg:w-42.5
