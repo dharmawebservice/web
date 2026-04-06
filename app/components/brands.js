@@ -14,27 +14,31 @@ Trusted Brands
 <div className="logo-row">
 
 <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
-<img src="/google.png"/>
+<img src="/google.webp"/>
 </a>
 
 <a href="https://www.amazon.in" target="_blank" rel="noopener noreferrer">
-<img src="/amazon.png"/>
+<img src="/amazon.webp"/>
 </a>
 
 <a href="https://www.flipkart.com" target="_blank" rel="noopener noreferrer">
-<img src="/flipkart.png"/>
+<img src="/flipkart.webp"/>
 </a>
 
 <a href="https://www.infosys.com" target="_blank" rel="noopener noreferrer">
-<img src="/infosys.png"/>
+<img src="/infosys.webp"/>
 </a>
-{/* 
+{
 <a href="https://subiofoods.com" target="_blank" rel="noopener noreferrer">
-<img src="/Subio.png"/>
-</a> */}
+<img src="/Subio.webp"/>
+</a> }
 
 <a href="https://crave-cart-82wd.onrender.com/" target="_blank" rel="noopener noreferrer">
-<img src="/cravecart.png"/>
+<img src="/cravecart.webp"/>
+</a>
+
+<a href="https://diyamiproductions.com/" target="_blank" rel="noopener noreferrer">
+<img src="/diyami.webp"/>
 </a>
 
 </div>
@@ -43,27 +47,31 @@ Trusted Brands
 <div className="logo-row">
 
 <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
-<img src="/google.png"/>
+<img src="/google.webp"/>
 </a>
 
 <a href="https://www.amazon.in" target="_blank" rel="noopener noreferrer">
-<img src="/amazon.png"/>
+<img src="/amazon.webp"/>
 </a>
 
 <a href="https://www.flipkart.com" target="_blank" rel="noopener noreferrer">
-<img src="/flipkart.png"/>
+<img src="/flipkart.webp"/>
 </a>
 
 <a href="https://www.infosys.com" target="_blank" rel="noopener noreferrer">
-<img src="/infosys.png"/>
+<img src="/infosys.webp"/>
 </a>
 
-{/* <a href="https://subiofoods.com" target="_blank" rel="noopener noreferrer">
-<img src="/Subio.png"/>
-</a> */}
+{<a href="https://subiofoods.com" target="_blank" rel="noopener noreferrer">
+<img src="/Subio.webp"/>
+</a>}
 
 <a href="https://crave-cart-82wd.onrender.com/" target="_blank" rel="noopener noreferrer">
-<img src="/cravecart.png"/>
+<img src="/cravecart.webp"/>
+</a>
+
+<a href="https://diyamiproductions.com/" target="_blank" rel="noopener noreferrer">
+<img src="/diyami.webp"/>
 </a>
 
 </div>

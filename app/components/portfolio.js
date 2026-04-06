@@ -6,17 +6,17 @@ const projects = [
   {
     title: "Startup Landing Page",
     tag: "Startup",
-    image: "/portfolio/2.jpg",
+    image: "/portfolio/2.webp",
   },
   {
     title: "Business Website",
     tag: "Business",
-    image: "/portfolio/1.jpg",
+    image: "/portfolio/1.webp",
   },
   {
     title: "Personal Portfolio",
     tag: "Portfolio",
-    image: "/portfolio/3.jpg",
+    image: "/portfolio/3.webp",
   },
 ];
 

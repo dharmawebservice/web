@@ -27,7 +27,7 @@ export default function RootLayout({ children }) {
         className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen text-white bg-fixed bg-cover bg-center`}
         style={{
           backgroundImage:
-            "linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url('/bg.png')",
+            "linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url('/bg.webp')",
         }}
       >
 

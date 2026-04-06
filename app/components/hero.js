@@ -116,7 +116,7 @@ export default function Hero() {
           </div>
 
           <img
-  src="/hero-image.png"
+  src="/hero-image.webp"
   alt="Website Design"
   className="relative w-full max-w-xs sm:max-w-md md:max-w-2xl mx-auto scale-110 drop-shadow-[0_80px_160px_rgba(0,0,0,0.9)] animate-float"
 
