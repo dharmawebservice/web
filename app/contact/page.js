@@ -64,7 +64,7 @@ export default function ContactPage() {
 
             <div className="space-y-3 text-gray-300">
               <p>📧 dharmawebservice@gmail.com</p>
-              {/* <p>📞 +91 XXXXXXXXXX</p> */}
+              <p>📞 +91 9611241651</p>
               <p>📍 Bangalore, India</p>
             </div>
           </div>
